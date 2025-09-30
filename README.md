@@ -25,12 +25,12 @@ Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blo
 3. Retexture iridium machine casings.
 4. Retexture reactor casings.
 5. Edit Blastproof Casing to look, well, more blast-proof.
-6. Add new hot ingot textures.
 
 #### Pipe dreams
 
 1. Edit the pipe / cable textures and models.
 2. Get emissive textures working. (i.e., via Continuity)
+3. Make all of the hot ingots consistent in shape (requires new overlays for datagen)
 
 ### Install instructions:
 
