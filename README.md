@@ -12,11 +12,10 @@ Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blo
 #### Minor tweaks
 
 1. Retexture motors and pumps.
-2. (Re)colour the Wrench texture.
-3. Edit Capacitor texture from GTR to fit MI resource requirements.
-4. Retexture misc. items (e.g., pipe config card, wood pulp, rubber sheet)
-5. Retexture energy storage units.
-6. Edit item and fluid IO ports.
+2. Edit Capacitor texture from GTR to fit MI resource requirements.
+3. Retexture misc. items (e.g., pipe config card, wood pulp, rubber sheet)
+4. Retexture energy storage units.
+5. Edit item and fluid IO ports.
 
 #### Major tweaks
 
