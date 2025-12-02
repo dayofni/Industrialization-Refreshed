@@ -7,7 +7,7 @@ Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blo
 
 (WARNING: DESIGNED WITH FABRIC 1.20.1 IN MIND.)
 
-### To-Do:
+### TODO:
 
 #### Minor tweaks
 
@@ -29,7 +29,7 @@ Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blo
 #### Pipe dreams
 
 1. Edit the pipe / cable textures and models.
-2. Get emissive textures working. (i.e., via Continuity)
+2. Get emissive textures working. (e.g., via Continuity)
 3. Make all of the hot ingots consistent in shape (requires new overlays for datagen)
 
 ### Install instructions:
